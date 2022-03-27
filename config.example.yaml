@@ -1,0 +1,7 @@
+# Change the filename to `config.yaml`!
+# Please do not use your usual password !!
+youth:
+    - username: ""
+      password: ""
+      org_id: "" # example: EECS1905; This is your organization ID
+      send_message_org_id: "" # The same as above
